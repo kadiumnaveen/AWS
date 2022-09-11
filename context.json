@@ -1,0 +1,16 @@
+{
+  callbackWaitsForEmptyEventLoop: [Getter/Setter],
+  succeed: [Function (anonymous)],
+  fail: [Function (anonymous)],
+  done: [Function (anonymous)],
+  functionVersion: '$LATEST',
+  functionName: 'HelloWorld',
+  memoryLimitInMB: '128',
+  logGroupName: '/aws/lambda/HelloWorld',
+  logStreamName: '2022/09/11/[$LATEST]b018a2d637b14898a9949c831bc67332',
+  clientContext: undefined,
+  identity: undefined,
+  invokedFunctionArn: 'arn:aws:lambda:us-west-2:677977512604:function:HelloWorld',
+  awsRequestId: '7ad8b275-f76d-4974-a854-1040c0b9e958',
+  getRemainingTimeInMillis: [Function: getRemainingTimeInMillis]
+}
